@@ -14,8 +14,6 @@
 #include <rthw.h>
 #include <rtthread.h>
 
-#include "drv_iic.h"
-
 enum icm20608_set_cmd
 {
     ICM20608_PWR_MGMT1,     // power management 1
